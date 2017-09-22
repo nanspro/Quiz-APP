@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  subgenre: one
+  A: MyString
+  B: MyString
+  C: MyString
+  answer: MyString
+
+two:
+  title: MyString
+  subgenre: two
+  A: MyString
+  B: MyString
+  C: MyString
+  answer: MyString
